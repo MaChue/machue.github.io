@@ -1,0 +1,58 @@
+[
+    {
+        "id": "uai",
+        "image": "assets/images/modules/lcs/lcs.jpeg",
+        "credits": 20,
+        "duration": 12,
+        "html": "module_contents/uai.html",
+        "name": "Understanding Artificial Intelligence"
+    },
+    {
+        "id": "na",
+        "image": "assets/images/modules/oois/oois.jpeg",
+        "credits": 20,
+        "duration": 12,
+        "html": "module_contents/na.html",
+        "name": "Numerical Analysis"
+    },
+    {
+        "id": "ml",
+        "image": "assets/images/modules/ssd/ssd.jpeg",
+        "credits": 20,
+        "duration": 12,
+        "html": "module_contents/ml.html",
+        "name": "Machine Learning"
+    },
+    {
+        "id": "ia",
+        "image": "assets/images/modules/nism/nism.jpeg",
+        "credits": 20,
+        "duration": 12,
+        "html": "module_contents/ia.html",
+        "name": "Intelligent Agents"
+    },
+    {
+        "id": "krr",
+        "image": "assets/images/modules/sepm/sepm.jpeg",
+        "credits": 20,
+        "duration": 12,
+        "html": "module_contents/krr.html",
+        "name": "Knowledge Representation and Reasoning"
+    },
+    {
+        "id": "rmpp",
+        "image": "assets/images/modules/rmpp/rmpp.jpeg",
+        "credits": 20,
+        "duration": 12,
+        "html": "module_contents/rmpp.html",
+        "name": "Research Methods and Professional Practice"
+    },
+    {
+        "id": "msccp",
+        "image": "assets/images/modules/mscp/mscp.jpeg",
+        "credits": 60,
+        "duration": 30,
+        "html": "module_contents/msccp.html",
+        "name": "MSc Computing Project"
+    }
+]
