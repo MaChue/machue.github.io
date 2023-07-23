@@ -3,42 +3,42 @@
         "imagePath": "assets/images/about/companies/bitsmedia.jpeg",
         "date": "Jan 2023 - Present",
         "title": "Lead Software Engineer (iOS)",
-        "companyLink": "https://www.bitsmedia.com",
-        "companyName": "BitsMedia Pte. Ltd."
+        "link": "https://www.bitsmedia.com",
+        "name": "BitsMedia Pte. Ltd."
     },
     {
         "imagePath": "assets/images/about/companies/bitsmedia.jpeg",
         "date": "Feb 2020 - Dec 2022",
         "title": "Senior Software Engineer (iOS)",
-        "companyLink": "https://www.bitsmedia.com",
-        "companyName": "BitsMedia Pte. Ltd."
+        "link": "https://www.bitsmedia.com",
+        "name": "BitsMedia Pte. Ltd."
     },
     {
         "imagePath": "assets/images/about/companies/twoappstudio.jpeg",
         "date": "Sept 2017 - Nov 2019",
         "title": "Freelance iOS Developer",
-        "companyLink": "https://2appstudio.com",
-        "companyName": "Two App Studio Pte. Ltd."
+        "link": "https://2appstudio.com",
+        "name": "Two App Studio Pte. Ltd."
     },
     {
         "imagePath": "assets/images/about/companies/nexlabs.jpeg",
         "date": "May 2016 - July 2017",
         "title": "Senior iOS Developer",
-        "companyLink": "https://nexlabs.co",
-        "companyName": "Nexlabs Co. Ltd."
+        "link": "https://nexlabs.co",
+        "name": "Nexlabs Co. Ltd."
     },
     {
         "imagePath": "assets/images/about/companies/aceplus.jpeg",
         "date": "June 2014 - March 2016",
         "title": "Mobile Developer (Android / iOS)",
-        "companyLink": "http://aceplussolutions.com",
-        "companyName": "AcePlus Solutions Co. Ltd."
+        "link": "http://aceplussolutions.com",
+        "name": "AcePlus Solutions Co. Ltd."
     },
     {
         "imagePath": "assets/images/about/companies/company.jpeg",
         "date": "Oct 2013 - May 2014",
         "title": "Junior Android Developer",
-        "companyLink": "www.awitd.com",
-        "companyName": "AWITD Co. Ltd."
+        "link": "www.awitd.com",
+        "name": "AWITD Co. Ltd."
     }
 ]

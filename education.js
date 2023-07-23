@@ -1,11 +1,11 @@
 document.addEventListener("DOMContentLoaded", function() {
-    const scriptTag = document.getElementById('experience-data-script');
+    const scriptTag = document.getElementById('education-data-script');
     const dataFile = scriptTag.getAttribute("data-json");
 
     fetch(dataFile)
         .then(response => response.json())
         .then(data => {
-            const container = document.querySelector('#experiences .mt_experience');
+            const container = document.querySelector('#educations .mt_experience');
 
             data.forEach((item, index) => {
                 const delay = 100 + index * 50;
